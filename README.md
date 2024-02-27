@@ -41,4 +41,4 @@ src="https://img.shields.io/twitter/follow/azizerkinov888?logo=twitter&style=for
 
 ### Technologies I use
 
-img src="https://img.shields.io/badge/Flutter-00BFFF?style=for-the-badge&logo=Flutter&logoColor=00BFFF
+<img src="https://img.shields.io/badge/Flutter-00BFFF?style=for-the-badge&logo=Flutter&logoColor=blue" />
