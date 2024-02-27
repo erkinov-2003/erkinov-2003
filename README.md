@@ -42,3 +42,6 @@ src="https://img.shields.io/twitter/follow/azizerkinov888?logo=twitter&style=for
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+
+
+### Technologies I use
