@@ -41,4 +41,7 @@ src="https://img.shields.io/twitter/follow/azizerkinov888?logo=twitter&style=for
 
 ### Technologies I use
 
-<img src="https://img.shields.io/badge/Flutter-00BFFF?style=for-the-badge&logo=Flutter&logoColor=blue" />
+<img src="https://img.shields.io/badge/Flutter-00BFFF?style=for-the-badge&logo=Flutter&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/GitHup-181717?style=for-the-badge&logo=GitHup&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=FFFFFF" />
+ <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=FFFFFF" />
