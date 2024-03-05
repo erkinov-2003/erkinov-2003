@@ -1,6 +1,3 @@
-[![MasterHead](https://raw.githubusercontent.com/omadli/omadli/master/output/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com)
-
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Erkinov Azizbek
 =======================================================================================================================================
 
@@ -48,3 +45,7 @@ src="https://img.shields.io/twitter/follow/azizerkinov888?logo=twitter&style=for
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/GitHup-181717?style=for-the-badge&logo=GitHup&logoColor=FFFFFF" />
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=FFFFFF" /> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=FFFFFF" />
  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=FFFFFF" />  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=FFFFFF" />  <img src="https://img.shields.io/badge/GoogleAnalitiycs-E37400?style=for-the-badge&logo=GoogleAnalitiycs&logoColor=FFFFFF" />
+
+
+ [![MasterHead](https://raw.githubusercontent.com/omadli/omadli/master/output/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com)
+
