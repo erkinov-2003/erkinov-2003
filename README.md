@@ -47,5 +47,5 @@ src="https://img.shields.io/twitter/follow/azizerkinov888?logo=twitter&style=for
  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=FFFFFF" />  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=FFFFFF" />  <img src="https://img.shields.io/badge/GoogleAnalitiycs-E37400?style=for-the-badge&logo=GoogleAnalitiycs&logoColor=FFFFFF" />
 
 
- [![MasterHead](https://raw.githubusercontent.com/omadli/omadli/master/output/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com)
-
+![github contribution grid snake animation](https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/masxxiii/masxxiii/output/github-contribution-grid-snake.svg#gh-light-mode-only)
