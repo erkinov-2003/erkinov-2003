@@ -1,10 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Erkinov Azizbek
 =======================================================================================================================================
 
-Student of PdP Academy
+FLUTTER MOVILE DEVELOPER
 ----------------------
-
-I completed the flutter course at PdP Academy in Uzbekistan. I have 3 months programming experience. I spend 8-10 hours programming.
 
 * 🌍  I'm based in Uzbakistan
 * 🖥️  See my portfolio at [My telegram chanell](http://t.me/erkinov_portfolioo)
